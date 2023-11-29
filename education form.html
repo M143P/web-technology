@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>Education Institution Admission Form</h1>
+    </head>
+    <body>
+        <div id="form">
+            NAME:<input type="text"/>
+            AGE:<input type="number"/>
+            STATE/COUNTRY:<input type="text"/>
+            MARKS OBTAINED IN SCHOOL:<input type="number"/>
+            LANGUAGE:<input type="text"/>
+            MARITAL STATUS:<input type="text"/>
+            <tr>
+                <td>DEPATRTMENT</td>
+                <td>
+                    <select>
+                        <option>python</option>
+                        <option>c programming</option>
+                        <option>java</option>
+                        </select>
+                        </td>
+            </tr>
+            <tr>
+                <td>DEGREE OF CERTIFICTAION</td>
+                <td>
+                    <select>
+                        <option>B.TECH IT</option>
+                        <option>B.TECH BE</option>
+                    </select>
+                </td>
+            </tr>
+            <input onclick="func()" type="SUBMIT">
+        </div>
+        <h2 id="h2">Thanks for visiting saveetha where education excellence.</h2>
+    </body>
+    <style>
+        h2{
+            display:none;
+        }
+    </style>
+    <script>
+        function func(){
+            document.getElementById("form").style.display="none";
+            document.getElementById("h2").style.display="block";
+        }
+    </script>
+</html>

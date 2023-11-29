@@ -1,0 +1,25 @@
+{
+    "url": "https://echo.zuplo.io/",
+    "method": "GET",
+    "query": {},
+    "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept-encoding": "gzip",
+        "accept-language": "en-US,en;q=0.9",
+        "connection": "Keep-Alive",
+        "host": "echo.zuplo.io",
+        "sec-ch-ua": "\"Chromium\";v=\"118\", \"Microsoft Edge\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "sec-fetch-user": "?1",
+        "true-client-ip": "2401:4900:7b7f:489:71e8:c276:b8b4:9b32",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76",
+        "x-forwarded-proto": "https",
+        "x-real-ip": "2401:4900:7b7f:489:71e8:c276:b8b4:9b32",
+        "zp-rid": "3ff6dc5c-d92b-43e3-a161-fba992b716c3"
+    }
+}
